@@ -1,0 +1,6 @@
+aiogram>=3.7
+aiohttp>=3.9
+google-genai>=1.0
+beautifulsoup4>=4.12
+lxml>=5.0
+cloudscraper>=1.2.71
